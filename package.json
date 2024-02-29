@@ -1,0 +1,25 @@
+{
+  "name": "hash_265",
+  "version": "1.0.0",
+  "description": "hashing stuff ",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/renkouzuki",
+  "scripts": {
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/renkouzuki/hash265.git)"
+  },
+  "keywords": [
+    "hash_265"
+  ],
+  "author": "renko_uzuki",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
